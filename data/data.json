@@ -1,0 +1,323 @@
+{
+    "branches": [
+        {
+            "id": 0, 
+            "name": "Springfield", 
+            "phone": "6153848431", 
+            "email": "", 
+            "address": {
+                "street": "728 S Main St", 
+                "city": "Springfield", 
+                "state": "TN", 
+                "zip": "37172"
+            }, 
+            "image": ""
+        },
+        {
+            "id": 1, 
+            "name": "Knoxville", 
+            "phone": "8656739798", 
+            "email": "", 
+            "address": {
+                "street": "10410 Jackson Oaks Way", 
+                "city": "Knoxville", 
+                "state": "TN", 
+                "zip": "37922"
+            }, 
+            "image": ""
+        },
+        {
+            "id": 2, 
+            "name": "Nashville", 
+            "phone": "6153618204", 
+            "email": "", 
+            "address": {
+                "street": "1321 Murfreesboro Pike #505", 
+                "city": "Nashville", 
+                "state": "TN", 
+                "zip": "37217"
+            }, 
+            "image": ""
+        }
+    ], 
+    "staff": [
+        {
+            "id": 0, 
+            "first_name": "William", 
+            "last_name": "Anderson", 
+            "branch": 0, 
+            "job_id": 1, 
+            "phone": "", 
+            "email": "", 
+            "education": "", 
+            "bio": "Will has been with Brown, Brown and Associates, P.C. since 2021. He obtained his Bachelor of Accounting from Western Kentucky University. In his free time, Will likes to watch sports, read, and spend time with his family.", 
+            "image": ""
+        },
+        {
+            "id": 1, 
+            "first_name": "Jared", 
+            "last_name": "Azevedo", 
+            "branch": 0, 
+            "job_id": 1, 
+            "phone": "", 
+            "email": "", 
+            "education": "", 
+            "bio": "Jared started working at BBA in 2024, and has a Bachelor of Business in Accounting from Southern Adventist University. He primarily specializes in individual and business tax preparation. In his free time, Jared enjoys Reading, walking, and video games.", 
+            "image": ""
+        },
+        {
+            "id": 2, 
+            "first_name": "Ervin", 
+            "last_name": "Brown", 
+            "branch": 0, 
+            "job_id": 0, 
+            "phone": "", 
+            "email": "", 
+            "education": "", 
+            "bio": "Ervin is a firm partner with over 35 years of accounting experience. Ervin has extensive experience in providing tax, business consulting, trust, and estate planning services. He is a member of the American Institute of Certified Public Accountants and the Tennessee Society of Certified Public Accountants.", 
+            "image": ""
+        },
+        {
+            "id": 3, 
+            "first_name": "Melissa", 
+            "last_name": "Clardy", 
+            "branch": 0, 
+            "job_id": 4, 
+            "phone": "", 
+            "email": "", 
+            "education": "", 
+            "bio": "", 
+            "image": ""
+        },
+        {
+            "id": 4, 
+            "first_name": "Courtney", 
+            "last_name": "Frensley", 
+            "branch": 0, 
+            "job_id": 0, 
+            "phone": "", 
+            "email": "", 
+            "education": "", 
+            "bio": "Courtney joined Brown, Brown and Associates, P.C. in 2022 and deals primarily with taxes, personal and business consultations, and bookkeeping. She also specializes in helping clients with their QuickBooks issues. Courtney graduated from the University of Tennessee at Martin where she earned a Bachelor of Science in Math and Southern New Hampshire University where she earned her Master of Science in Accounting. Courtney is a member of the American Institute of Certified Public Accountants and the Tennessee Society of Certified Public Accountants. She and her husband live in Springfield and have three dogs and a cat. In her free time, she enjoys drinking coffee, reading books, and playing video games.", 
+            "image": ""
+        },
+        {
+            "id": 5, 
+            "first_name": "Nikki", 
+            "last_name": "Hayes", 
+            "branch": 0, 
+            "job_id": 1, 
+            "phone": "", 
+            "email": "", 
+            "education": "", 
+            "bio": "Nikki joined the BBA team January 2010. She has an Associates Degree from Columbia State Community College, a Bachelor of Business Administration degree from Austin Peay, and a Masters of Business Administration degree from MTSU. She primarily specializes in individual and business tax consulting and preparation and is extremely knowledgeable when it comes to nonprofit accounting and tax. In her free time, Nikki enjoys spending time with her family, watch her kids play different sports, and watching Lifetime Movies Network.", 
+            "image": ""
+        },
+        {
+            "id": 6, 
+            "first_name": "Belinda", 
+            "last_name": "Heard", 
+            "branch": 0, 
+            "job_id": 2, 
+            "phone": "", 
+            "email": "", 
+            "education": "", 
+            "bio": "Belinda is a Springfield local and enjoys working with her BBA family and our clients. She joined Brown, Brown and Associates, P.C. in 2020, and assists clients with their bookkeeping and payroll. In her free time, Belinda enjoys quilting and going to the beach.", 
+            "image": ""
+        },
+        {
+            "id": 7, 
+            "first_name": "Jessica", 
+            "last_name": "Hester", 
+            "branch": 0, 
+            "job_id": 0, 
+            "phone": "", 
+            "email": "", 
+            "education": "", 
+            "bio": "Jessica joined BBA in 2007. She is a member of the Tennessee Society of Certified Public Accountants and has a Bachelor of Business Administration from Austin Peay. She primarily specializes in individual and business tax consulting and preparation. In her free time, Jessica enjoys spending time with her family and loves all things Disney!", 
+            "image": ""
+        },
+        {
+            "id": 8, 
+            "first_name": "Larry", 
+            "last_name": "Johnson", 
+            "branch": 0, 
+            "job_id": 1, 
+            "phone": "", 
+            "email": "", 
+            "education": "", 
+            "bio": "Larry has been with BBA since he graduated from the University of Tennessee at Martin in 2019! He has a Bachelor's Degree in Accounting and Finance, and enjoys helping clients with preparing tax returns and preparing reviewed and compiled financial statements. He also enjoys the work environment and team atmosphere that we have at BBA. In his free time, Larry likes to play Disc Golf, Ultimate Frisbee, Board Games, and Videogames.", 
+            "image": ""
+        },
+        {
+            "id": 9, 
+            "first_name": "Elaine", 
+            "last_name": "Joyce", 
+            "branch": 0, 
+            "job_id": 3, 
+            "phone": "", 
+            "email": "", 
+            "education": "", 
+            "bio": "Elaine joined Brown, Brown and Associates, P.C. in 2015. She thoroughly enjoys her position as office manager and the duties it entails, including working with people and assisting clients. In her spare time, she loves spending time with family and enjoys gardening and canning.", 
+            "image": ""
+        },
+        {
+            "id": 10, 
+            "first_name": "Claudetta", 
+            "last_name": "McMurtry", 
+            "branch": 0, 
+            "job_id": 0, 
+            "phone": "", 
+            "email": "", 
+            "education": "", 
+            "bio": "Claudetta is a firm partner with over 30 years of accounting experience. She is a graduate of Western KY University, where she earned a Bachelor of Science, and Belmont University, where she earned a Masters of Business Administration. Licensed in both the states of Tennessee and Kentucky, she has significant experience in variety of industries, including manufacturing, health care, service professionals, construction, and not-for-profit, and performed many consulting projects, compliance projects, and accounting for income tax provisions. Claudetta is a member of many professional organizations, such as the KY Society of CPA's, TN Society of CPA's, AICPA, TN Supreme Court Rule 31 Mediation, Chartered Global Management Association, and Robertson County Career Women. In her free time, she is a Preschool Teacher at Life Point Church, enjoys gardening, boating, scuba and white-water rafting. 'Do one thing every day that scares you' - Eleanor Roosevelt", 
+            "image": ""
+        },
+        {
+            "id": 12, 
+            "first_name": "Aaron", 
+            "last_name": "McNulty", 
+            "branch": 0, 
+            "job_id": 1, 
+            "phone": "", 
+            "email": "", 
+            "education": "", 
+            "bio": "Aaron grew up in Portland and joined the BBA team in 2024. He is a graduate of Southern Adventist University, where he earned a Bachelor’s degree in Accounting. Aaron enjoys helping clients with their taxes and tax planning. Aaron loves to spend time with his family, friends, and dogs.  In his free time, he likes to play golf and play piano and trombone. He also plays hockey in an adult league!", 
+            "image": ""
+        },
+        {
+            "id": 13, 
+            "first_name": "Austin", 
+            "last_name": "Steely", 
+            "branch": 0, 
+            "job_id": 4, 
+            "phone": "", 
+            "email": "", 
+            "education": "", 
+            "bio": "Austin grew up in Clarksville and attended the Tennessee College of Applied Technology. She joined the BBA office staff in 2024. She enjoys working with the people who make up the BBA team. She also looks forward to seeing our clients each year as they come back year after year to visit and get their taxes completed. At BBA, she is responsible for answering the phones, greeting clients who walk through the front door, processing all of the tax returns, overseeing the transition process for new clients as well as general administrative responsibilities. She does it all!", 
+            "image": ""
+        },
+        {
+            "id": 14, 
+            "first_name": "Lexy", 
+            "last_name": "Vandivier", 
+            "branch": 0, 
+            "job_id": 2, 
+            "phone": "", 
+            "email": "", 
+            "education": "", 
+            "bio": "Lexy attended Austin Peay State University, where she graduated in 2022 with a Bachelor of Science in Business Management. She has been with Brown, Brown & Associates, P.C since 2023, assisting clients with their bookkeeping and payroll. Lexy is a Springfield local and enjoys crafting and hanging out with her dog in her free time.", 
+            "image": ""
+        },
+        {
+            "id": 15, 
+            "first_name": "Chrissy", 
+            "last_name": "Addington", 
+            "branch": 1, 
+            "job_id": 2, 
+            "phone": "", 
+            "email": "", 
+            "education": "", 
+            "bio": "Chrissy joined the Brown, Brown and Associates, P.C. in 2024. She is Certified as an Accounting Specialist. She enjoys working at BBA because she likes working as a team. In her free time, Chrissy enjoys riding horses, taking care of her three Frenchies and of course spending time with her daughter.", 
+            "image": ""
+        },
+        {
+            "id": 16, 
+            "first_name": "Tracy", 
+            "last_name": "Elkins-Bulloch", 
+            "branch": 1, 
+            "job_id": 2, 
+            "phone": "", 
+            "email": "tracy.elkinsbulloch@bbatn.net", 
+            "education": "", 
+            "bio": "Tracy has been with Brown, Brown and Associates since 2023. She is a jack of all trades and helps out with the front office as well as helping clients with bookkeeping and payroll. Tracy is also the Knoxville office’s guru for procedure writing. Tracy enjoys working at BBA because she loves that she gets to work with a great group of people, that are willing to help each other. She also likes that she has the opportunity to learn new things and grow. In her free time, she enjoys cooking, crafting, and spending time with her family and dogs.", 
+            "image": ""
+        },
+        {
+            "id": 17, 
+            "first_name": "Christy", 
+            "last_name": "Ely", 
+            "branch": 1, 
+            "job_id": 0, 
+            "phone": "", 
+            "email": "", 
+            "education": "", 
+            "bio": "Christy is the Managing CPA at the Knoxville office. She is a graduate of Illinois State University where she obtained a Bachelor of Science in Accounting. Chirsty is also a member of the American Institute of Certified Public Accountants and the Tennessee Society of Certified Public Accountants. Christy likes working at BBA because she enjoys helping her clients and considers her coworkers to be her best friends and are like family. Christy lives in Knoxville with her husband, Eric and daughter, Addy. In her free time, she likes relaxing on the water, whether it be in a boat on a lake or on a float in the pool. She also enjoys watching her daughter play volleyball, putting puzzles together, and spending time with her cats.", 
+            "image": ""
+        },
+        {
+            "id": 18, 
+            "first_name": "Jessica", 
+            "last_name": "Hatfield", 
+            "branch": 1, 
+            "job_id": 2, 
+            "phone": "", 
+            "email": "", 
+            "education": "", 
+            "bio": "Jessica started working for Brown, Brown and Associates, P.C. in 2020 and assists clients with their bookkeeping and payroll. She has an Associates of Science in Accounting completed at University of Phoenix.  In her free time, she likes to dance, read, and practice yoga.", 
+            "image": ""
+        },
+        {
+            "id": 19, 
+            "first_name": "Teresa", 
+            "last_name": "Hicks", 
+            "branch": 1, 
+            "job_id": 5, 
+            "phone": "", 
+            "email": "", 
+            "education": "", 
+            "bio": "Teresa is an Enrolled Agent and has an Associate’s Degree from Pellissippi State Community College. As an Enrolled Agent, she helps clients with their taxes and can represent them before the IRS. She enjoys working with the people who make up the BBA team and looks forward to seeing our clients each year as they come back year after year to visit and get their taxes completed. In her free time, she enjoys spending as much time as she can with her family and friends.  She also enjoys working in her rock garden each year.  Anyone who knows her knows her favorite color is any shade of PURPLE!  She also enjoys collecting Angels, Gnomes, and unusual teapots.", 
+            "image": ""
+        },
+        {
+            "id": 20, 
+            "first_name": "Tina", 
+            "last_name": "Quarles", 
+            "branch": 1, 
+            "job_id": 3, 
+            "phone": "", 
+            "email": "", 
+            "education": "", 
+            "bio": "Tina is a Knoxville local that has worked for BBA since 2010. As the Office Manager in Knoxville, she enjoys working with our clients. She is responsible for answering the phones, greeting clients who walk through the front door, processing all of the tax returns, overseeing the transition process for new clients as well as general administrative responsibilities. She does it all! She loves to help both our clients that have been with us for many years and is always ready to meet new clients too. She always has a welcoming smile when clients come into our office. Whatever free time Tina has left is reserved for her grandkids, which keeps her pretty busy!", 
+            "image": ""
+        },
+        {
+            "id": 21, 
+            "first_name": "Joshua", 
+            "last_name": "Nolasco", 
+            "branch": 0, 
+            "job_id": 1, 
+            "phone": "", 
+            "email": "joshua.nolasco@bbatn.net", 
+            "education": "", 
+            "bio": "Josh started working for BBA in 2023 and has a Bachelor of Science degree from California State University, Los Angeles and a Master of Science Accounting degree from the University of Notre Dame. Josh enjoys meeting with clients and discussing ways to improve their business. In his free time, Josh enjoys barbequing, going to concerts, and meeting up with friends.", 
+            "image": ""
+        }
+    ], 
+    "jobs": [
+        {
+            "id": 0, 
+            "title": "CPA"
+        }, 
+        {
+            "id": 1, 
+            "title": "Staff Associate"
+        }, 
+        {
+            "id": 2, 
+            "title": "Staff Associate"
+        }, 
+        {
+            "id": 3, 
+            "title": "Office Manager"
+        }, 
+        {
+            "id": 4, 
+            "title": "Administrative Assistant"
+        }, 
+        {
+            "id": 5, 
+            "title": "Enrolled Agent"
+        }
+    ]
+}
