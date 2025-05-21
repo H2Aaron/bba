@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
                         staffCard.className = "col-12 col-md-6 col-xxl-4 d-flex justify-content-center";
                         staffCard.innerHTML = `
                             <div class="card text-dark m-2" style="width: 20rem;">
-                                <img src="assets/profile-pics/${employee.first_name}-${employee.last_name}-profile.png" class="card-img-top" alt="${employee.first_name}">
+                                <img src="assets/profile-pics/${employee.first_name.toLowerCase()}-${employee.last_name.toLowerCase()}-profile.png" class="card-img-top" alt="${employee.first_name}">
                                 <div class="card-body">
                                     <h5 class="card-title">${employee.first_name} ${employee.last_name}</h5>
                                     <h6 class="card-subtitle text-muted">${data.jobs.find(element => element.id == employee.job_id).title}</h6>
